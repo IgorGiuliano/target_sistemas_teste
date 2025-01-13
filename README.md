@@ -23,7 +23,7 @@ Certifique-se de ter instalado:
 1- Clone o repositório:
 ```
 git clone https://github.com/IgorGiuliano/target_sistemas_teste.git
-cd teste-target
+cd target_sistemas_teste
 ```
 
 2- Crie um ambiente virtual (opcional, mas recomendado):
